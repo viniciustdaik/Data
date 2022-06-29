@@ -1,8 +1,4 @@
-<!--<script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-database.js"></script>
-
-<script>
-const firebaseConfig = -->{
+      {
         apiKey: "AIzaSyAm2Sdl9Sb9Zpj1fHQFQe10F1NoJhfTfKM",
         authDomain: "tudo-58ad3.firebaseapp.com",
         databaseURL: "https://tudo-58ad3-default-rtdb.firebaseio.com",
@@ -12,6 +8,4 @@ const firebaseConfig = -->{
         appId: "1:933740761555:web:ed8ef65427a1da3a939f26",
         measurementId: "G-B3B61441GF"
       };
-        
-      <!--firebase.initializeApp("https://viniciustdaik.github.io/Data/Data.js");
-</script>-->
+
